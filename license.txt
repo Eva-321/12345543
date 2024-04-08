@@ -1,0 +1,11 @@
+Model Information:
+* title:	The tasty slice of salami pizza with cheese
+* source:	https://sketchfab.com/3d-models/the-tasty-slice-of-salami-pizza-with-cheese-c4560059b71e4db1aca2facc2070b927
+* author:	Constantine (https://sketchfab.com/krikogusin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The tasty slice of salami pizza with cheese" (https://sketchfab.com/3d-models/the-tasty-slice-of-salami-pizza-with-cheese-c4560059b71e4db1aca2facc2070b927) by Constantine (https://sketchfab.com/krikogusin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
